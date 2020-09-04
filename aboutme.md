@@ -1,16 +1,30 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+#subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi, I'm Nir. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I have a Bsc Degree in Computer Science and 4 years work experience developing software mostly in java. 
+My favorite topics are microservices, scalable software architecture and clean code.
+* * *
+## Featured skills
+- Spring Boot, Maven, Mockito for unit testing, Apache Kafka, Docker, Kubernetes, Elasticsearch, MongoDB 
+- Familiar with AWS Services – ECR, S3, Machine Learning, Lambda, EC2, AWS Connect
+- Knowledge in machine learning, text analysis
+- Strong debugging, root cause analysis and problem-solving skills
+- Data structures, design patterns and object-oriented design  
 
-What else do you need?
+* * *
+## Work Experience
 
-### My story
+### Viaccess Orca
+*Aug 2018 - today &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Backend java developer*
+- Develop microservices using Spring Boot, Apache Kafka, Elasticsearch and MongoDB
+- Add new features and bug fixes for existing monolith platform
+- Work in agile methodology (Scrum)
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### Check Point Software Technologies 
+*Dec 2016 - Aug 2018 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Full stack developer*
+- Development and maintenance of check point's support and service applications using java EE, JBoss, Oracle Database and Apache Solr  
