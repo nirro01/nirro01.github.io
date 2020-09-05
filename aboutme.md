@@ -1,10 +1,11 @@
 ---
 layout: page
 title: About me
+#cover-img: /assets/img/me.jpg
 #subtitle: Why you'd want to go on a date with me
 ---
 
-Hi, I'm Nir. 
+Hi, I'm Nir. ![me]({{site.url}}//assets/img/me.jpg){: .mx-auto.d-block :}
 
 I have a Bsc Degree in Computer Science and 4 years work experience developing software mostly in java. 
 My favorite topics are microservices, scalable software architecture and clean code.
