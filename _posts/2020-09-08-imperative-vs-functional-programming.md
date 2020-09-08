@@ -168,11 +168,11 @@ public Map<Integer, List<Person>> example5A(List<Person> persons) {
 }
 
 public Map<Integer, List<Person>> example5B(List<Person> persons) {
-        return persons
-                .stream()
-                .filter(person -> person.age() >= 18)
-                .collect(Collectors.groupingBy(Person::age));
-    }
+    return persons
+        .stream()
+        .filter(person -> person.age() >= 18)
+        .collect(Collectors.groupingBy(Person::age));
+}
 ```
 ## Example 6  
 ```java
